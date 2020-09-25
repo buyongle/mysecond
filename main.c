@@ -1,5 +1,7 @@
 main
 <<<<<<< HEAD
 =======
-int
+in
 >>>>>>> test
+this is new 
+second changed
